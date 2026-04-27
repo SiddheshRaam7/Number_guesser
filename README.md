@@ -12,7 +12,7 @@ A Python-based command-line game where players compete to guess a hidden number 
 
 ## How to Run It
 
-1. **Download the Files:** Ensure both the Python script and any associated files are in the same folder.
+1. **Download the Files:** Ensure both the Python script and any associated files are in the same folder, and make sure that the name of the leaderboard.txt is exactly this (not leaderboard.txt (1), etc.).
 2. **Run the Game:** Execute the `Final_project` Python file in your terminal or IDE:
    ```bash
    python Final_project.py
